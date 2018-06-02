@@ -10,7 +10,7 @@ canonifyurls = true
 #disqusShortname = "alvinthomas" # statsnips
 
 # Enable analytics by entering your Google Analytics tracking ID
-#googleAnalytics = "UA-99083233-2" # UA-99083233-1
+googleAnalytics = "UA-99083233-4" # UA-99083233-1
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
